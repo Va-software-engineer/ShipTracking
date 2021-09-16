@@ -1,0 +1,14 @@
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\bin\Debug\net5.0\ShipTracking.Generic.deps.json
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\bin\Debug\net5.0\ShipTracking.Generic.dll
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\bin\Debug\net5.0\ref\ShipTracking.Generic.dll
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\bin\Debug\net5.0\ShipTracking.Generic.pdb
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.csprojAssemblyReference.cache
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.Resources.Resource.resources
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.csproj.GenerateResource.cache
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.AssemblyInfoInputs.cache
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.AssemblyInfo.cs
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.csproj.CoreCompileInputs.cache
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.dll
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ref\ShipTracking.Generic.dll
+E:\Workplace\Project\ShipTrackingAPI\trunk\ShipTracking.Generic\obj\Debug\net5.0\ShipTracking.Generic.pdb
